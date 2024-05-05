@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300;400;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: "Oxygen";
+
+}
+ol{
+    padding-left: 30px;
+    font-size: 20px;
+}
+h1{
+    font-weight: 700;
+    
+}
+img{
+    width: 100%;
+    border-radius: 15px;
+}
+.heading_div, .copy_right, .disclaimer{
+    background-color: #5CA904;
+    color: white;
+    padding: 10px;
+}
